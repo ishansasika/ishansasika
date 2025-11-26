@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```javascript
-const ishan = {
+const ishansasika = {
     name: "Ishan Karunaratne",
     location: "Kalutara, Sri Lanka 🇱🇰",
     timezone: "UTC +05:30",
