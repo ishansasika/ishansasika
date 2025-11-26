@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ishan Karunaratne
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Svelte+%26+Angular+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%26+Angular+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,11 +22,11 @@ const ishan = {
     role: "Software Engineer",
     portfolio: "https://ishansasika.dev",
     currentFocus: "Building beautiful web components and applications",
-    specialties: ["Svelte", "Angular", "React", "Frontend Development"],
+    specialties: ["React", "Angular", "Svelte", "Frontend Development"],
     funFact: "I create perfect UI components that developers actually want to use! 🎨",
     currentlyWorking: ["Svelte Perfect Select", "Toggle Switches", "UI Components"],
-    askMeAbout: ["Svelte", "Angular", "Frontend Architecture", "Component Libraries"],
-    hobbies: ["Coding", "UI/UX Design", "Open Source Contributing"]
+    askMeAbout: ["React", "Angular", "Frontend Architecture", "Component Libraries"],
+    hobbies: ["Coding", "Frontend Development", "Open Source Contributing"]
 };
 ```
 
