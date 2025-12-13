@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ishan Karunaratne
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%26+Angular+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%26+Angular+Specialist;Frontend+Architect;npm+Package+Author;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,14 +19,16 @@ const ishansasika = {
     name: "Ishan Karunaratne",
     location: "Kalutara, Sri Lanka 🇱🇰",
     timezone: "UTC +05:30",
-    role: "Software Engineer",
+    role: "Software Engineer & Frontend Architect",
     portfolio: "https://ishansasika.dev",
-    currentFocus: "Building beautiful web components and applications",
-    specialties: ["React", "Angular", "Svelte", "Frontend Development"],
-    funFact: "I create perfect UI components that developers actually want to use! 🎨",
-    currentlyWorking: ["Svelte Perfect Select", "Toggle Switches", "UI Components"],
-    askMeAbout: ["React", "Angular", "Frontend Architecture", "Component Libraries"],
-    hobbies: ["Coding", "Frontend Development", "Open Source Contributing"]
+    currentFocus: "Building production-ready React & Angular applications",
+    specialties: ["React", "Angular", "TypeScript", "Component Libraries"],
+    publishedPackages: ["svelte-perfect-select", "svelte-toggle-switch"],
+    templates: ["React + Vite + Tailwind", "Angular + Tailwind"],
+    funFact: "I create developer-friendly templates and components for the modern web! 🎨",
+    currentlyWorking: ["npm Packages", "Frontend Templates", "UI Components"],
+    askMeAbout: ["React", "Angular", "TypeScript", "Component Libraries", "Frontend Architecture"],
+    hobbies: ["Building Developer Tools", "Open Source", "UI/UX Design"]
 };
 ```
 
@@ -37,14 +39,14 @@ const ishansasika = {
 <div align="center">
 
 ### Frontend Frameworks & Libraries
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -92,11 +94,11 @@ const ishansasika = {
 
 <div align="center">
 
+[![React Vite Tailwind Template](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=react-vite-tailwind-template&theme=tokyonight)](https://github.com/ishansasika/react-vite-tailwind-template)
+[![Angular Tailwind Template](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=angular-tailwindcss-template&theme=tokyonight)](https://github.com/ishansasika/angular-tailwindcss-template)
+
 [![Svelte Perfect Select](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=svelte-perfect-select&theme=tokyonight)](https://github.com/ishansasika/svelte-perfect-select)
 [![Svelte Toggle Switch](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=svelte-toggle-switch&theme=tokyonight)](https://github.com/ishansasika/svelte-toggle-switch)
-
-[![React Tailwind Template](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=react-tailwind-template&theme=tokyonight)](https://github.com/ishansasika/react-tailwind-template)
-[![Angular Styling](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=angular-styling&theme=tokyonight)](https://github.com/ishansasika/angular-styling)
 
 </div>
 
@@ -104,22 +106,22 @@ const ishansasika = {
 
 ## 🌟 What I'm Up To
 
-- 🔭 **Currently working on:** Svelte component libraries and UI frameworks
-- 🌱 **Learning:** Advanced Svelte patterns, Web Components, and modern CSS techniques
-- 👯 **Looking to collaborate on:** Open source Svelte projects and component libraries
+- 🔭 **Currently working on:** React & Angular applications, frontend templates, and component libraries
+- 🌱 **Learning:** Advanced React patterns, Angular best practices, and modern TypeScript techniques
+- 👯 **Looking to collaborate on:** Open source React/Angular projects and developer tools
 - 🤔 **Need help with:** Backend architecture and DevOps practices
-- 💬 **Ask me about:** Svelte, Angular, frontend architecture, or component design patterns
-- ⚡ **Fun fact:** I believe the perfect select component doesn't exist... yet! 🎯
+- 💬 **Ask me about:** React, Angular, TypeScript, frontend architecture, or component design patterns
+- ⚡ **Fun fact:** I've published npm packages and production-ready templates used by developers worldwide! 🚀
 
 ---
 
-## 📈 Component Libraries & Contributions
+## 📈 npm Packages & Templates
 
 ```bash
-🎨 Svelte Perfect Select    ⭐ Perfect dropdown component for Svelte
-🔀 Svelte Toggle Switch     ⭐ Beautiful toggle switches for Svelte apps
-⚛️ React Tailwind Template ⭐ Production-ready React + Tailwind starter
-🅰️ Angular Styling Tips    ⭐ Frontend styling best practices
+⚛️ React Vite Tailwind      ⭐ Lightning-fast React + Vite + Tailwind starter
+🅰️ Angular Tailwind         ⭐ Modern Angular + Tailwind CSS template
+🎨 Svelte Perfect Select    ⭐ Customizable dropdown component for Svelte
+🔀 Svelte Toggle Switch     ⭐ Beautiful toggle switches with smooth animations
 ```
 
 ---
@@ -152,7 +154,7 @@ const ishansasika = {
 
 <div align="center">
 
-If you find my Svelte components useful or want to support open source development:
+If you find my templates and components useful or want to support open source development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ishansasika)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ishansasika)
@@ -172,7 +174,7 @@ If you find my Svelte components useful or want to support open source developme
   
 ### 🎵 *"Good software, like wine, takes time."* – Joel Spolsky
 
-**Building the future, one component at a time! 🚀**
+**Building modern web experiences with React & Angular! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=50&descAlign=50" width="100%" />
 
