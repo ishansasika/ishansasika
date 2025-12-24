@@ -23,7 +23,7 @@ const ishansasika = {
     portfolio: "https://ishansasika.dev",
     currentFocus: "Building production-ready React & Angular applications",
     specialties: ["React", "Angular", "TypeScript", "Component Libraries"],
-    publishedPackages: ["svelte-perfect-select", "svelte-toggle-switch"],
+    publishedPackages: ["premium-react-loaders", "svelte-perfect-select", "svelte-toggle-switch"],
     templates: ["React + Vite + Tailwind", "Angular + Tailwind"],
     funFact: "I create developer-friendly templates and components for the modern web! 🎨",
     currentlyWorking: ["npm Packages", "Frontend Templates", "UI Components"],
@@ -94,6 +94,8 @@ const ishansasika = {
 
 <div align="center">
 
+[![Premium React Loaders](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=premium-react-loaders&theme=tokyonight)](https://github.com/ishansasika/premium-react-loaders)
+
 [![React Vite Tailwind Template](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=react-vite-tailwind-template&theme=tokyonight)](https://github.com/ishansasika/react-vite-tailwind-template)
 [![Angular Tailwind Template](https://github-readme-stats.vercel.app/api/pin/?username=ishansasika&repo=angular-tailwindcss-template&theme=tokyonight)](https://github.com/ishansasika/angular-tailwindcss-template)
 
@@ -118,6 +120,7 @@ const ishansasika = {
 ## 📈 npm Packages & Templates
 
 ```bash
+📦 Premium React Loaders    ⭐ 20 production-ready loading components for React
 ⚛️ React Vite Tailwind      ⭐ Lightning-fast React + Vite + Tailwind starter
 🅰️ Angular Tailwind         ⭐ Modern Angular + Tailwind CSS template
 🎨 Svelte Perfect Select    ⭐ Customizable dropdown component for Svelte
