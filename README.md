@@ -19,7 +19,7 @@ const ishansasika = {
     name: "Ishan Karunaratne",
     location: "Kalutara, Sri Lanka 🇱🇰",
     timezone: "UTC +05:30",
-    role: "Software Engineer & Frontend Architect",
+    role: "Software Engineer & Frontend Specialist",
     portfolio: "https://ishansasika.dev",
     currentFocus: "Building production-ready React & Angular applications",
     specialties: ["React", "Angular", "TypeScript", "Component Libraries"],
